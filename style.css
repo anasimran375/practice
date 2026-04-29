@@ -14,8 +14,8 @@ body {
 }
 
 .login-card {
-  width: 100%;
-  max-width: 380px;
+  width: 10%;
+  max-width: 2%;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 16px;
@@ -105,3 +105,4 @@ body {
     transform: translateY(0);
   }
 }
+
